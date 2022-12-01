@@ -1,5 +1,7 @@
 PRIMEIRO PROJETO
 
+Nova versão alterada no git local novaBranchLocal
+
 Só Jesus salva!
 
 O Rei está voltando!
